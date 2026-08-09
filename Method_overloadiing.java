@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthSplitPaneUI;
-
 public class Method_overloadiing {
     Method_overloadiing()
     {
@@ -23,7 +21,7 @@ public static void main(String[]args)
     n.add();
    System.out.println(n.add(5,7)); 
     Method_overloadiing m = new Method_overloadiing();
-    Method_overloadiing k = new Method_overloadiing(3,5);
+    System.out.println(m.add(2, 8));
 
     
 } 

@@ -1,6 +1,5 @@
 // 1/3 pie r^2 h cone
 // 4/3 pie r^3 sphere
-import java.util.*;
 public class volm {
     double volume( int r)
     {
