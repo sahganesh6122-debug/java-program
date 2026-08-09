@@ -10,6 +10,6 @@ public class leap_year {
     }
     public static void main(String[] args) {
         leap_year yr = new leap_year();
-        System.out.println(yr.year(2024));
+        System.out.println(yr.year(2025));
     }
 }
